@@ -129,3 +129,31 @@ header{
 .button:focus{
     outline:rgb(57, 135, 236) auto 1px;
 }
+
+.footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color: #e9e9e9;
+    padding-left:20px;
+}
+li a {
+    float:left;
+    display: block;
+    color:rgb(95, 95, 95);
+    text-align:center;
+    padding:20px 30px;
+    text-decoration: none;
+    font-size:18px;
+}
+
+li a:hover{
+    text-decoration: underline;
+}
+.nav_break {
+    padding-right:55%;
+}
+
