@@ -54,6 +54,7 @@ header{
 #logo_box {
     height: 200px;
     width:100%;
+    margin-bottom:-10px;
 }
 
 #logo {
@@ -68,6 +69,7 @@ header{
     border-radius: 40px;
     border: 1px solid #dcdcdc;
     height:45px;
+    margin-bottom:5px;
 }
 
 #bar:hover{
@@ -96,7 +98,7 @@ header{
 
 #mic {
     position:relative;
-    left:18px;
+    left:20px;
     bottom:8px;
     height: 40px;
     width: 40px;
@@ -113,8 +115,8 @@ header{
 
 .button{
     border-radius: 10px;
-    margin-left:20px;
-    margin-right:20px;
+    margin-left:30px;
+    margin-right:30px;
     margin-top: 20px;
     height:80%;
     color:#4d4c4cdc;
@@ -156,6 +158,6 @@ li a:hover{
     text-decoration: underline;
 }
 .nav_break {
-    padding-right:55%;
+    padding-right:45%;
 }
 
