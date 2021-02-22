@@ -59,11 +59,12 @@ header{
 #logo {
     padding-left:42%;
     padding-top:5%;
+    padding-bottom: 50px;
 }
 
 #bar {
     margin:0 auto;
-    width: 575px;
+    width: 600px;
     border-radius: 40px;
     border: 1px solid #dcdcdc;
     height:45px;
@@ -95,12 +96,12 @@ header{
 
 #mic {
     position:relative;
+    left:18px;
     bottom:8px;
     height: 40px;
     width: 40px;
     padding-top:10px;
     padding-bottom: -15px;
-    margin-left:-10px;
 
 }
 
