@@ -50,3 +50,48 @@ header{
     padding-left: 10px;
     padding-right:15px;
 }
+
+#logo_box {
+    height: 200px;
+    width:100%;
+}
+
+#logo {
+    padding-left:42%;
+    padding-top:5%;
+}
+
+#bar {
+    margin:0 auto;
+    width: 575px;
+    border-radius: 40px;
+    border: 1px solid #dcdcdc;
+    height:45px;
+}
+
+#bar:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+
+.search_bar {
+    position:relative;
+    left:20px;
+    bottom:22px;
+    height: 40px;
+    border:none;
+    width:500px;
+    font-size:20px;
+    outline:none;
+}
+
+#mic {
+    position:relative;
+    left:30px;
+    bottom:8px;
+    height: 40px;
+    width: 40px;
+    padding-top:10px;
+    padding-bottom: -15px;
+    margin-left:-10px;
+
+}
